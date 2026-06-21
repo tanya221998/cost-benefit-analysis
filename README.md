@@ -1,4 +1,3 @@
-@"
 # Cost-Benefit Analysis Tool
 
 A Python-based cost-benefit analysis model that uses real-world data from government APIs to evaluate projects and investments.
